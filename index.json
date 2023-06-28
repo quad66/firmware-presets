@@ -1426,6 +1426,37 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/quad66_osd_44.txt",
+      "hash": "fc84ce88392258016c9dfc990e60ee53514aed9ee99f4d1bec61b67dd7e72776",
+      "title": "Quad66 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD quad66"
+      ],
+      "author": "quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/quad66_F405_performance_44.txt",
+      "hash": "552cb03c353f80c655fa9b888a42772a23c5d9a3651a5e1da29c8f723a7da0d0",
+      "title": "Quad66 F405 Setup Base",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/quad66_f411_performance_44.txt",
       "hash": "b7f5e88d45a8ac79dd150ba63a59fc25e91374808f3e57a961d18d748ffac2de",
       "title": "Quad66 F411 Setup Base",
