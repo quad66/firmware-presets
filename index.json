@@ -1377,6 +1377,22 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/filters/quad66_filter_BMI270_12_pole.txt",
+      "hash": "d7679b2e3c8d066fc42810a397152d2b594663838ee5f8d5baaa91792b1bd024",
+      "title": "Quad66 4.4 Filter settings for BMI270 12 pole motor.",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
