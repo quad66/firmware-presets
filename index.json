@@ -955,6 +955,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rc_link/generic/test.txt",
+      "hash": "f48a78a42d3c677096b7133a01746d5c4ee07ac120a9d7add43acfea0cff234b",
+      "title": "Betaflight 4.4 TUNE defaults",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.3/rc_link/ghost/long_range.txt",
       "hash": "d91208028b683edc8a6f0c6d8782791e99fe20094f9d51eeb5fd79b4112f5feb",
       "title": "IRC Ghost (Long Range)",
