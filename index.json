@@ -188,7 +188,6 @@
       "2S",
       "3 inch",
       "3S",
-      "5\"",
       "500Hz",
       "50Hz",
       "533",
@@ -220,7 +219,6 @@
       "Crossfire",
       "CRSF",
       "ctzsnooze",
-      "CTZsoonze",
       "DDC",
       "default",
       "defaults",
@@ -248,7 +246,6 @@
       "Freedom",
       "FreedomSpec",
       "freestyle",
-      "freesytle",
       "frsky",
       "Garban",
       "ghost",
@@ -267,8 +264,7 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
-      "karate",
-      "KarateBrot",
+      "karatebrot",
       "launch",
       "launch_mode",
       "LeadFingers",
@@ -350,7 +346,6 @@
       "Street",
       "Street League",
       "StreetLeague",
-      "suagrK",
       "sugarK",
       "switch",
       "SWPR",
@@ -656,30 +651,6 @@
         "reset"
       ],
       "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "faf6fc71b3248d86bccb759cc653fa3a784dc2616f7dbfc4b1285f836992fe56",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
       "priority": 100
     },
     {
