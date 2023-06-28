@@ -1378,7 +1378,7 @@
     },
     {
       "fullPath": "presets/4.4/filters/quad66_filter_BMI270_12_pole.txt",
-      "hash": "d7679b2e3c8d066fc42810a397152d2b594663838ee5f8d5baaa91792b1bd024",
+      "hash": "bf5afbde6bc15ed52d153ae37f2822bfb438c152f47d238eccecc27533e938ea",
       "title": "Quad66 4.4 Filter settings for BMI270 12 pole motor.",
       "firmware_version": [
         "4.4"
