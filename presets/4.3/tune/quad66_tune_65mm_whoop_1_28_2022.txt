@@ -1,0 +1,71 @@
+#$ TITLE: Quad66 tune 65mm acro race whoop 0802 motors Azi quad blade 48 khz tuned at 31.4gm AUW
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 1S, whoop, tune, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: High performance tune by Quad66.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Quad66 Whoop filter preset highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: 48 khz ESC frequency highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Feed Forward smoothing, jitter reduction, and averaging must be apropriate for you Rx link. By convention set by CTsnooze, I have these settings in the Quadd66 ELRS link preset. If you are on other Rx Links, please use one of the presets by CTsnooze.  
+#$ DESCRIPTION:
+#$ DESCRIPTION: For F411 boards the Quad66 Setup Base Whoop is recommended.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tune developed on Flywoo versatile board, BFPV frame, NBD goober canopy, NBD gold 0802, Azi quad blade props, HM EP2 RX, LDARC 199C cam 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tuned at 31.4 gm AUW, intended for slightly lighter AUW aprox 30 gm. The OpenLager is a bit to heavy for the 250 battery to get the weight down to the regular weight with a 300.
+#$ DESCRIPTION:
+
+
+# -- PID values --
+set p_pitch = 108
+set i_pitch = 194
+set d_pitch = 95
+set f_pitch = 288
+
+set p_roll = 103
+set i_roll = 184
+set d_roll = 92
+set f_roll = 277
+
+set p_yaw = 103
+set i_yaw = 184
+set f_yaw = 277
+set d_min_roll = 69
+set d_min_pitch = 70
+
+# -- Sliders --
+set simplified_master_multiplier = 140
+set simplified_d_gain = 165
+set simplified_pi_gain = 165
+set simplified_feedforward_gain = 165
+set simplified_pitch_d_gain = 90
+
+
+# -- Dmax --
+set d_max_gain = 0
+set d_max_advance = 0
+
+# -- Thrust Linearization --
+set thrust_linear = 30
+
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+
+# -- Dshot idle value --
+set dshot_idle_value = 1300
+
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
+set vbat_min_cell_voltage = 320
+set vbat_warning_cell_voltage = 330
+
+
+

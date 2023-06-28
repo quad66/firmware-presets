@@ -1,0 +1,23 @@
+#$ TITLE: Quad66 F411 Setup Base Whoop
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: setup, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: This preset serves as a base for F411 for an acro race whoop. It includes: cpu over-clock, props out, raises pidsum limit, crash recovery on, and vbat sag compensation.
+#$ DESCRIPTION:
+#$ DESCRIPTION:	Apply Setup Base Whoop preset after Tune preset..
+
+set mag_hardware = NONE
+set baro_hardware = NONE
+set cpu_overclock = 120MHZ
+set yaw_motors_reversed = ON
+set small_angle = 180
+set crash_recovery = ON
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440

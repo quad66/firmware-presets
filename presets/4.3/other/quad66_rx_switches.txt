@@ -1,0 +1,22 @@
+#$ TITLE: Quad66 RX map and Switches Setup
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: setup, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: RX, mapping and switches set up.
+
+feature SOFTSERIAL
+
+set serialrx_provider = CRSF
+
+# map
+map TAER1234
+
+# aux
+aux 0 0 0 1500 2100 0 0
+aux 1 27 0 1300 1700 0 0
+aux 2 13 3 1700 2100 0 0
+aux 3 26 1 900 2100 0 0
+aux 4 35 2 1700 2100 0 0
+aux 5 39 1 1300 2100 0 0

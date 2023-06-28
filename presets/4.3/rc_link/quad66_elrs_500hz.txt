@@ -1,0 +1,27 @@
+#$ TITLE: Quad66 ELRS 500hz
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: RC_LINK
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: ELRS, rc, link, 500hz, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: This set up is slightly more aggressive than the OFFICIAL preset by CTsnooze Basic RC link settings for a 500hz ELRS link via CRSF.
+#$ DESCRIPTION:
+#$ DESCRIPTION:	Apply RC Link preset after Tune preset.
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: make ABSOLUTELY SURE that the OpenTx or EdgeTx Hardware ADC Filter is un-checked!
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: Use a compatible version of EdgeTx or OpenTx!
+#$ DESCRIPTION:
+#$ DESCRIPTION: If a log shows excessive noise in your feedforward trace, try increasing FF smoothing to 65, if excess noise persits its most likely there is a Tx firmware issue or excess gimbal noise such as what I found with the Jumper T-lite.
+
+feature RX_SERIAL
+set serialrx_provider = CRSF
+
+# rc smoothing should always be enabled with ELRS
+set rc_smoothing = ON
+
+set feedforward_averaging = 2_POINT
+set feedforward_smooth_factor = 50
+set feedforward_jitter_factor = 5
+
+

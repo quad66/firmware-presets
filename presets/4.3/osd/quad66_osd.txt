@@ -1,0 +1,25 @@
+#$ TITLE: Quad66 OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  OSD quad66
+#$ AUTHOR: quad66
+#$ DESCRIPTION: OSD setup by quad66
+
+
+set osd_vbat_pos = 2081
+set osd_tim_2_pos = 2166
+set osd_throttle_pos = 2370
+set osd_current_pos = 2421
+set osd_craft_name_pos = 2409
+set osd_avg_cell_voltage_pos = 2090
+set osd_esc_rpm_pos = 184
+set osd_core_temp_pos = 2402
+set osd_stat_max_spd = OFF
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_min_rssi = OFF
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
+set osd_stat_max_esc_rpm = ON
+set osd_displayport_device = MAX7456

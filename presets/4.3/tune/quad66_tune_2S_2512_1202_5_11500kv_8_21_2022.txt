@@ -1,0 +1,80 @@
+#$ TITLE: Quad66 tune 2S GF2512 1202.5 11500kv 48 khz 73 gm AUW
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 2S, 2.5 inch, tune, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: High performance tune by Quad66.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Quad66 filter preset highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Dynamic idle (biderection Dshot required)
+#$ DESCRIPTION:
+#$ DESCRIPTION: 48 khz ESC frequency highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Feed Forward smoothing, jitter reduction, and averaging must be apropriate for you Rx link. By convention set by CTsnooze, I have these settings in the Quadd66 ELRS link preset. If you are on other Rx Links, please use one of the presets by CTsnooze.  
+#$ DESCRIPTION:
+#$ DESCRIPTION: For F411 boards the Quad66 Setup Base is recommended.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tune developed on WP 114 Gen 5 frame, GF 2512 props, 1202.5 11,500kv motors, Flywoo F411 MPU6000, HM EP2 RX, namelessRC nano VTX, ANT Lite cam, WarPig TPU canopy, GNB 530mah 2S HV yellow label 
+#$ DESCRIPTION:
+#$ DESCRIPTION: 73 gm AUW.
+
+# -- PID values --
+
+set p_pitch = 87
+set i_pitch = 155
+set d_pitch = 61
+set f_pitch = 240
+
+set p_roll = 87
+set i_roll = 156
+set d_roll = 60
+set f_roll = 243
+
+set p_yaw = 87
+set i_yaw = 156
+set f_yaw = 243
+
+set d_min_roll = 60
+set d_min_pitch = 61
+
+
+# -- Sliders --
+set simplified_master_multiplier = 150
+set simplified_d_gain = 135
+set simplified_pi_gain = 130
+set simplified_dmax_gain = 0
+set simplified_feedforward_gain = 135
+set simplified_pitch_d_gain = 90
+set simplified_pitch_pi_gain = 95
+
+
+
+# -- Dmax --
+set d_max_gain = 0
+set d_max_advance = 0
+
+
+# -- Thrust Linearization --
+set thrust_linear = 30
+
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+# -- Dshot RPM telemetry --
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+
+# -- Dynamic idle ON at 3500 rpm --
+set dyn_idle_min_rpm = 35
+
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
+
+
+
