@@ -150,11 +150,9 @@
       "VTX"
     ],
     "author": [
-      "Alex Campbell (Chief)",
       "Alex Vanover",
       "benlumley",
       "Betaflight",
-      "BMSThomas",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
@@ -182,7 +180,6 @@
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
-      "\\\\GAS",
       "03",
       "1000Hz",
       "111hz",
@@ -212,7 +209,6 @@
       "actual",
       "adjustments",
       "air unit",
-      "AlexFPV",
       "analog",
       "Audio TBS",
       "AutoSelect",
@@ -222,11 +218,8 @@
       "betaflight",
       "blackbox",
       "BMS",
-      "BMSThomas",
       "camera",
       "camera_control",
-      "Cgo",
-      "Chief",
       "cinematic",
       "clean",
       "clear",
@@ -1116,66 +1109,6 @@
       ],
       "author": "Daniel Appel / Tehllama",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/BMSThomas.txt",
-      "hash": "72813b60f5841eea61bfcda0f31d21dc18eb89832e18a34f4471b8a013af9815",
-      "title": "BMSThomas racing/freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "BMSThomas",
-        "rates",
-        "MultiGP"
-      ],
-      "author": "BMSThomas",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/CGo.txt",
-      "hash": "2a2551bf40bcc97ee19a8af1f2c0f23ff4a038ff5e17d054ee2f9043ec2dbd89",
-      "title": "CGo race rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "racing",
-        "rates",
-        "MultiGP",
-        "quaddiction",
-        "Cgo"
-      ],
-      "author": "sugarK",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.3/rates/Chief.txt",
-      "hash": "7f9d2b2429b6ab754a94e66fe764f5c19c294dbc33b00b4fa5fb03f2e4b196ee",
-      "title": "Chief race/freestyle rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "race",
-        "Chief",
-        "AlexFPV",
-        "racing",
-        "\\\\GAS",
-        "freestyle"
-      ],
-      "author": "Alex Campbell (Chief)",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
