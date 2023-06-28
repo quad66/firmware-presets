@@ -1393,6 +1393,22 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.4/filters/quad66_filter_MPU600_12_pole.txt",
+      "hash": "a26f85f5153d84723fe2eeb840a781ed6cf2db6e6a9ff12b2d396e955c275f0e",
+      "title": "Quad66 4.4 Filter settings for MPU6000 12 pole motor.",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
