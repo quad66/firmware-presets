@@ -3224,26 +3224,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/test.txt",
-      "hash": "f48a78a42d3c677096b7133a01746d5c4ee07ac120a9d7add43acfea0cff234b",
-      "title": "Betaflight 4.4 TUNE defaults",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.4/vtx/DJI_FPV-WTF_MSP-OSD.txt",
       "hash": "8b8d1da5c13f99ee0916e3242ca921f777dbcc82eda83228b3eba56baf7b4111",
       "title": "OSD for Fpv.wtf, DJI O3, Avatar HD",
