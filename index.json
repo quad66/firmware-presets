@@ -168,13 +168,11 @@
       "QuadMcFly (Ryan Harrell)",
       "Sjoer van der Ploeg",
       "Sugar K",
-      "sugarK",
-      "UAV Tech (Mark Spatz)"
+      "sugarK"
     ],
     "keywords": [
       "03",
       "1000Hz",
-      "111hz",
       "150Hz",
       "15Hz",
       "166Hz",
@@ -192,8 +190,6 @@
       "55Hz",
       "5in",
       "6.67 ms",
-      "666Hz",
-      "9ms",
       "ACCESS",
       "actual",
       "adjustments",
@@ -216,7 +212,7 @@
       "digital",
       "displayport",
       "divimath",
-      "DJI",
+      "dji",
       "eachine",
       "ELRS",
       "emax",
@@ -229,12 +225,12 @@
       "filters",
       "five33",
       "Foxeer",
-      "fport",
+      "FPORT",
       "fpv.wtf",
       "Freedom",
       "FreedomSpec",
       "freestyle",
-      "frsky",
+      "FrSky",
       "ghost",
       "GHST",
       "HD",
@@ -290,7 +286,6 @@
       "rc link",
       "rc_link",
       "rc_smoothing",
-      "Redpine",
       "reset",
       "rush",
       "rush tank",
@@ -302,8 +297,6 @@
       "SA 2.1",
       "sa2.0",
       "sa20",
-      "sbus",
-      "SBUS fast",
       "Smart",
       "smart audio",
       "smartaudio",
@@ -330,7 +323,6 @@
       "tinytrainer",
       "Tracer",
       "tramp",
-      "transmitter",
       "tune",
       "tx5m.1",
       "tx800",
@@ -508,92 +500,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
-      "hash": "cb13a7911b75e12843b47aba4a0e8541d4ea40ee867e08cd0c4399120370f517",
-      "title": "DJI Normal",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "transmitter"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/DJI_SBUS_Fast.txt",
-      "hash": "0939d74e9be57494ce29fcafbc7577c941f5cfbf34e4655f144063316d409e02",
-      "title": "DJI SBUS FAST",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "DJI",
-        "rc",
-        "link",
-        "SBUS fast"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "5aaa44c727f95f4d5ab31ad1374cd882cfef365c7ed83d2fc88d2c3fc8ad8b8e",
-      "title": "ExpressLRS 150Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "150Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "459d815401af6a39e9536568564bb2fd8745f6d6b57a9abda8937e6f7409903f",
-      "title": "ExpressLRS 250Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
       "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
       "hash": "9dfd1c1ab41dfd6a741867188d3fe66ac32873c60e0605b5f36066360e732fcf",
       "title": "ExpressLRS 500Hz",
@@ -609,54 +515,6 @@
         "500Hz",
         "rc",
         "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "02c473aa2d528c195cf2bd0a99aae1b90259a735a7f077328d07cf1c628bc153",
-      "title": "ExpressLRS 50Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/frsky_sbus_fport.txt",
-      "hash": "14a2f0528c1916e45526527f90d2067e1e77f91a3397cb7c20dac2e17d92a1b3",
-      "title": "FrSky Sbus or FPort",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "frsky",
-        "sbus",
-        "fport",
-        "9ms",
-        "111hz",
-        "rc",
         "link",
         "smoothing"
       ],
@@ -1281,46 +1139,6 @@
         "immersion"
       ],
       "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
-      "hash": "c55664addd75a71a409eb05c6bf91fbe65c84470b3abe93ffd1e2e5e48e2a70d",
-      "title": "Redpine 666Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Redpine",
-        "rc",
-        "link",
-        "666Hz"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/redpine_mpm.txt",
-      "hash": "3289f2c04811e109022a671168b85cab1a884f5a22690678a41f819b33ad424e",
-      "title": "Redpine MPM",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "Redpine",
-        "rc",
-        "link",
-        "666Hz"
-      ],
-      "author": "ctzsnooze",
       "force_options_review": true,
       "priority": 10000000000
     },
