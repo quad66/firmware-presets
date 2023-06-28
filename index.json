@@ -176,6 +176,7 @@
       "3S",
       "500Hz",
       "50Hz",
+      "533",
       "6.67 ms",
       "ACCESS",
       "actual",
@@ -202,6 +203,7 @@
       "filter",
       "filtering",
       "filters",
+      "five33",
       "FPORT",
       "fpv.wtf",
       "freestyle",
@@ -230,6 +232,7 @@
       "Passthrough",
       "pid",
       "quad66",
+      "quaddiction",
       "R9",
       "race v1",
       "race v2",
@@ -247,10 +250,14 @@
       "smartaudio",
       "smoothing",
       "some",
+      "spec",
+      "spec racing",
       "sugarK",
       "switch",
       "tbs",
       "tbs sa",
+      "tiny",
+      "tinytrainer",
       "tramp",
       "tune",
       "tx5m.1",
@@ -1101,6 +1108,29 @@
       "author": "Jye Smith",
       "force_options_review": true,
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/leds/quaddiction_tinytrainer.txt",
+      "hash": "2b2bede40d142402b6c9c3b0bdeb996c0b2215761aab4e787eee8188118521b7",
+      "title": "Quaddiction TinyTrainer LED settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "leds",
+        "533",
+        "five33",
+        "quaddiction",
+        "sugarK",
+        "spec",
+        "spec racing",
+        "tinytrainer",
+        "tiny"
+      ],
+      "author": "sugarK",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
