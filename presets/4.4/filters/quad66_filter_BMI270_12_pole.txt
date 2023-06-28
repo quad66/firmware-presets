@@ -31,9 +31,6 @@ set simplified_gyro_filter_multiplier = 200
 set dyn_notch_count = 2
 set dyn_notch_max_hz = 800
 
-set dyn_notch_q = 300
-
-
 # -- RPM filtering --
 set dshot_bidir = ON
 #set motor_pwm_protocol = DSHOT300
