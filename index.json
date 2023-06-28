@@ -227,7 +227,6 @@
       "displayport",
       "divimath",
       "DJI",
-      "DShot telemetry",
       "eachine",
       "ELRS",
       "emax",
@@ -317,7 +316,6 @@
       "Redpine",
       "reset",
       "reset statistics",
-      "rpm",
       "rush",
       "rush tank",
       "rushfpv",
@@ -491,72 +489,6 @@
         "very",
         "noisy",
         "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_clean.txt",
-      "hash": "768b5997943f1febea1ab285d29871131a5bd50e303e66f435c462175e952051",
-      "title": "4.3 Filter settings for CLEAN build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_noisy.txt",
-      "hash": "80addd2a95bd1cb3bf3fe8fe9e2fe666b6954c7f8abd9f096f784b251430fe4c",
-      "title": "4.3 Filter settings for NOISY build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "noisy",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_rpm_normal.txt",
-      "hash": "bd9aa6726c5019a314a6a4266b63edebb610a28985b637029928a77b104ea6ab",
-      "title": "4.3 Filter settings for NORMAL build with RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "rpm",
-        "DShot telemetry",
-        "filter",
-        "filters",
-        "normal",
         "basic",
         "betaflight"
       ],
