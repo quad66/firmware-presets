@@ -251,7 +251,6 @@
       "analog",
       "AOS",
       "AOS T3",
-      "Apex",
       "Audio TBS",
       "AutoSelect",
       "aux",
@@ -338,7 +337,6 @@
       "IllusionFpv",
       "immersion",
       "immersionRC",
-      "ImpulseRC",
       "IRC",
       "IRC Tramp",
       "juicy",
@@ -3888,125 +3886,6 @@
         "filters"
       ],
       "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "be7d760872b99568192cba01c8e0175c59a50d74f8d82a98fc975398974633fd",
-      "title": "AOS 3.5 V1 4s Tune | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "AOS",
-        "4s",
-        "freestyle",
-        "sub 250"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_Digipick_braced.txt",
-      "hash": "293fc19e8651996f0d1d3c0c26f8622828ada206211d9c2f18f0b136f1f1bdc8",
-      "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle TP3",
-        "Digipick",
-        "Toothpick",
-        "3s",
-        "3 Inch",
-        "4s",
-        "AOS T3",
-        "T3"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "5b334a9e4495c522069414c1bf7d91c9b996dac25ecd750ec6b2d839d6e0bed4",
-      "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle",
-        "5 inch",
-        "5in",
-        "6S",
-        "freestyle",
-        "GoPro",
-        "mouse fpv"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "5efcc6c3efd67f2a94383d9d73ef34498daa3cc779e9ad2e0fbba75751a257bb",
-      "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_ImpuseRC_Apex_tune.txt",
-      "hash": "aacea6dd698c1a77ccbe4057e73d6d4391b2444ca08346b11717ca944ebab886",
-      "title": "ImpulseRC Apex 5\" | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Apex",
-        "ImpulseRC",
-        "5\"",
-        "5in",
-        "5 inch"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_toothpick3_3s.txt",
-      "hash": "a60e270590017ffb0c66737809e6a4b00516c59f83c454f10f08a6179a24980b",
-      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle TP3",
-        "Toothpick",
-        "3s",
-        "3 inch"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
       "priority": 1000000000000
     },
     {
