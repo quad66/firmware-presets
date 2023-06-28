@@ -1,0 +1,80 @@
+#$ TITLE: Quad66 tune "3S"/2S Touring 1204 8000kv GF 3020 48 khz 104gm AUW 12 pole motor
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 3S, 3 inch, tune, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: High performance tune by Quad66.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Quad66 filter preset highly recommended, but proceed with caution and check motor temps. 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Dynamic idle (biderection Dshot required)
+#$ DESCRIPTION:
+#$ DESCRIPTION: 48 khz ESC frequency highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Feed Forward smoothing, jitter reduction, and averaging must be apropriate for you Rx link. By convention set by CTsnooze, I have these settings in the Quadd66 ELRS link preset. If you are on other Rx Links, please use one of the presets by CTsnooze.  
+#$ DESCRIPTION:
+#$ DESCRIPTION: For F411 boards the Quad66 Setup Base is recommended.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tune developed on Touring 122 frame (3 mm thick), Tune RC 1204 8000kv motors, Gemfan 3020, TuneRC Poly, HM EP2 RX, HDZero whoop VTX with Nano 90 cam, GNB 720 mah 2S HV red label 
+#$ DESCRIPTION:
+#$ DESCRIPTION: This tune should work well for the more typical 3S 1204 5000kv builds as you get a similar effective kv with 2S and the 8000 kv I used here.
+#$ DESCRIPTION:
+#$ DESCRIPTION: On the 3018 biblade you may need to take the master slider down 1 or 2 notches if you are getting P oscillations. 
+#$ DESCRIPTION:
+#$ DESCRIPTION: 104 gm AUW.
+
+# -- PID values --
+
+set p_pitch = 82
+set i_pitch = 147
+set d_pitch = 64
+set f_pitch = 227
+
+set p_roll = 78
+set i_roll = 140
+set d_roll = 56
+set f_roll = 218
+
+set p_yaw = 78
+set i_yaw = 140
+set f_yaw = 218
+
+set d_min_roll = 56
+set d_min_pitch = 64
+
+
+# -- Sliders --
+set simplified_master_multiplier = 130
+set simplified_d_gain = 145
+set simplified_pi_gain = 135
+set simplified_feedforward_gain = 140
+
+
+# -- Dmax --
+set d_max_gain = 0
+set d_max_advance = 0
+
+
+# -- Thrust Linearization --
+set thrust_linear = 40
+
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+# -- Dshot RPM telemetry --
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+
+# -- Dynamic idle ON at 3500 rpm --
+set dyn_idle_min_rpm = 39
+
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
+
+
+
