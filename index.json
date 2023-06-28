@@ -155,7 +155,6 @@
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Ivan Efimov (Limon)",
-      "Jakub Espandr (FlyCamCzech)",
       "Jye Smith",
       "KMfpv",
       "MrAlucardDante",
@@ -175,8 +174,6 @@
       "3S",
       "500Hz",
       "50Hz",
-      "6.67 ms",
-      "ACCESS",
       "actual",
       "adjustments",
       "air unit",
@@ -201,10 +198,8 @@
       "filter",
       "filtering",
       "filters",
-      "FPORT",
       "fpv.wtf",
       "freestyle",
-      "FrSky",
       "HD",
       "HD video",
       "HDzero",
@@ -228,7 +223,6 @@
       "Passthrough",
       "pid",
       "quad66",
-      "R9",
       "race v1",
       "race v2",
       "rates",
@@ -1116,30 +1110,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/rc_link/FrSky R9 (6.67ms).txt",
-      "hash": "1a7463a0c577298eca260f352576d2d23439eda9c2a002143eeff65fd7b21a7c",
-      "title": "FrSky R9 (6.67 ms)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FrSky",
-        "R9",
-        "6.67 ms",
-        "ACCESS",
-        "FPORT",
-        "rc",
-        "rx",
-        "link"
-      ],
-      "author": "Jakub Espandr (FlyCamCzech)",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
