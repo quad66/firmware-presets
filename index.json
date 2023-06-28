@@ -156,7 +156,6 @@
       "Daniel Appel / Tehllama",
       "Directory",
       "Foxeer Harvey",
-      "Garban",
       "Ivan Efimov (Limon)",
       "Jakub Espandr (FlyCamCzech)",
       "jappyjan",
@@ -185,7 +184,6 @@
       "2500mW",
       "250Hz",
       "2ms",
-      "2S",
       "3 inch",
       "3S",
       "500Hz",
@@ -197,7 +195,6 @@
       "666Hz",
       "9ms",
       "ACCESS",
-      "Acrobaix",
       "actual",
       "adjustments",
       "air unit",
@@ -207,22 +204,16 @@
       "Avatar",
       "basic",
       "betaflight",
-      "blackbox",
       "BMS",
-      "camera",
-      "camera_control",
       "clean",
       "clear",
       "Configure",
-      "control",
       "Crossfire",
       "CRSF",
-      "DDC",
       "default",
       "defaults",
       "diatone",
       "digital",
-      "disable",
       "displayport",
       "divimath",
       "DJI",
@@ -244,32 +235,23 @@
       "FreedomSpec",
       "freestyle",
       "frsky",
-      "Garban",
       "ghost",
       "GHST",
-      "GPS",
-      "GTB339",
-      "gyroflow",
       "HD",
       "HD video",
       "HDOSD",
       "HDzero",
-      "HighKV",
       "HV",
       "immersion",
       "immersionRC",
       "IRC",
       "IRC Tramp",
       "karatebrot",
-      "launch",
-      "launch_mode",
       "LeadFingers",
       "League",
       "leds",
       "link",
       "Llama",
-      "log",
-      "logging",
       "Long Range",
       "mamba",
       "MM",
@@ -279,9 +261,7 @@
       "msp",
       "MSP VTX",
       "msp-osd",
-      "Multi",
       "MultiVoltage",
-      "names",
       "nano",
       "nanohawk",
       "no rpm",
@@ -296,7 +276,6 @@
       "Passthrough",
       "pid",
       "pro32",
-      "profile",
       "Pure Race",
       "quad66",
       "quaddiction",
@@ -313,7 +292,6 @@
       "rc_smoothing",
       "Redpine",
       "reset",
-      "reset statistics",
       "rush",
       "rush tank",
       "rushfpv",
@@ -324,7 +302,6 @@
       "SA 2.1",
       "sa2.0",
       "sa20",
-      "Safe",
       "sbus",
       "SBUS fast",
       "Smart",
@@ -333,16 +310,14 @@
       "smoothing",
       "Solid250",
       "some",
-      "Spec",
+      "spec",
       "spec racing",
       "speedybee",
-      "stats",
       "Street",
       "Street League",
       "StreetLeague",
       "sugarK",
       "switch",
-      "SWPR",
       "tank solo",
       "tank ultimate",
       "TBS",
@@ -353,11 +328,10 @@
       "tiny",
       "tiny tank",
       "tinytrainer",
-      "Toothpick",
       "Tracer",
       "tramp",
       "transmitter",
-      "Tune",
+      "tune",
       "tx5m.1",
       "tx800",
       "ultra",
@@ -366,7 +340,6 @@
       "unify pro",
       "utility",
       "vista",
-      "Voltage",
       "vtx",
       "vtx table",
       "vtxtable",
@@ -474,26 +447,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/blackbox_disable.txt",
-      "hash": "dd841068d2601c35bd38b350349b82cf23bd0185d8ee21f8a51ac1c9636154df",
-      "title": "4.3 Blackbox disable settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "blackbox",
-        "logging",
-        "log",
-        "disable",
-        "sugarK"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
       "hash": "1314352dd602fa60a9d8737439b20b91ffdd2ab0a92a378e66a7367f15f7f758",
       "title": "ExpressLRS Passthrough Betaflight Settings",
@@ -510,268 +463,6 @@
         "Passthrough",
         "Configure",
         "utility"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/gyroflow_min_blackbox.txt",
-      "hash": "cc058ecad825d299b6561d506e3c06f740a4e122dd5a10221243f4ed9919a68e",
-      "title": "Gyroflow minimum settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "gyroflow",
-        "blackbox",
-        "log",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_blackbox.txt",
-      "hash": "c2791cc94bf8dcd84e5581b76074a126df6db87b8d1eb08d707b10a9801e426a",
-      "title": "Reset 4.3 Blackbox settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "blackbox",
-        "logging",
-        "log"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_camera_control.txt",
-      "hash": "1331d557cfcc348b8bbb2d78cd688563ceba66e713ece02f583aade1cfa435ac",
-      "title": "Reset Camera Control settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "camera",
-        "control",
-        "camera_control"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_gps.txt",
-      "hash": "08a6638077cc4246ea23e7bfbb9d4759b31c0243a0f326b7379270039bd3a773",
-      "title": "Reset GPS settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "GPS"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_launch_mode.txt",
-      "hash": "e4a11824ea2e2426160e68a161ffc15ecb2f6d2436aeb84d76967c86f11ed491",
-      "title": "Reset Launch Mode settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "launch",
-        "launch_mode"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_names.txt",
-      "hash": "84a26fc8b78aefb8e4a9b0c01684ea8d207b35d0332edc3118885d60854a18c9",
-      "title": "Reset 4.3 Names",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "names",
-        "profile"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_servo.txt",
-      "hash": "4b54c73d5472a403fc0f15ebcef2951ada94a5b5ecd5111c31e7f1ee494d00ec",
-      "title": "Reset 4.3 Stats",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset statistics",
-        "stats"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/reset_stats.txt",
-      "hash": "6921447e1f11930290e65020dab20eb83fe328b05edafccb865b11f544379dfa",
-      "title": "Reset 4.3 Stats",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset statistics",
-        "stats"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Street_League_motor_outputs.txt",
-      "hash": "57233ef94c4cc27d3ad2ad546ef7e4d105dd09b27e2230cb9a7885a949e83dc7",
-      "title": "Street League Motor Output Limit Settings",
-      "firmware_version": [
-        "4.2",
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Motor",
-        "output limit",
-        "Street League",
-        "StreetLeague",
-        "Street",
-        "League",
-        "LeadFingers",
-        "Throttle cap"
-      ],
-      "author": "LeadFingers",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Tehllama_5in_1900-2250KV_FreedomSpec_3S-5S-6S_Race_TUNE_OTHER.txt",
-      "hash": "af6c747c1fd882529c91cae1dab44dc6612bc612e26b66bb83da348523a19344",
-      "title": "5in FreedomSpec Race Tune 1900-2250KV on 3S (Spec) and 5S/6S (Open)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "533",
-        "FreedomSpec",
-        "Tune",
-        "Spec",
-        "Race",
-        "Llama",
-        "MultiVoltage"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Tehllama_5in_2350-2750KV-TexasSpec_3S-4S-5S_Race_TUNE_OTHER.txt",
-      "hash": "5d6ed6b44c881d82559867dac445f89fe0f1e6cca98683740741bd91261d7aa2",
-      "title": "5in TexasSpec Freedom Race Tune 2350-2750KV on 3S (Spec) and 4S/5S (Open)",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "533",
-        "HighKV",
-        "FreedomSpec",
-        "Spec",
-        "Tune",
-        "Race",
-        "Llama",
-        "MultiVoltage",
-        "Texas"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Tehllama_5in_BMS-Spec_1600-2350KV_4S-5S-6S_Race_TUNE-OTHER.txt",
-      "hash": "26f49dea7894c55dfffffadaac1eadd98ed8ad6ad57ae3177e2667d9f4cec4fe",
-      "title": "5in Tehllama Race Tune 1600-2350KV on 4S/5S/6S including BMS Spec",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Race",
-        "Llama",
-        "Safe",
-        "Tune",
-        "MultiVoltage"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/Tehllama_GTB339_3in_SWPR-Spec_2S-3S_Race_TUNE_OTHER.txt",
-      "hash": "0ff1bcd062a4b4cf9b376717c628cf508cc5cbe052b7b2e3fa28f751c052c8d9",
-      "title": "3in Lightweight 3S/2S Tune for GTB-339 or 3\" Racing Toothpick",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "GTB339",
-        "Toothpick",
-        "Spec",
-        "Race",
-        "Llama",
-        "SWPR",
-        "Multi",
-        "Voltage",
-        "2S",
-        "3S"
       ],
       "author": "Daniel Appel / Tehllama",
       "priority": 0
