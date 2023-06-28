@@ -163,7 +163,6 @@
       "Evan Turner (Headsup)",
       "Feisar",
       "Foxeer Harvey",
-      "FPVian",
       "Garban",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
@@ -198,14 +197,13 @@
       "1ms",
       "1S",
       "2.5W",
-      "2022",
       "20ms",
       "2500mW",
       "250Hz",
       "2in",
       "2ms",
       "2S",
-      "3 Inch",
+      "3 inch",
       "3.5in",
       "3\"",
       "3in",
@@ -213,9 +211,8 @@
       "4 inch",
       "4\"",
       "4in",
-      "4s",
-      "5 In",
-      "5 Inch",
+      "4S",
+      "5 inch",
       "5\"",
       "500Hz",
       "50Hz",
@@ -246,16 +243,12 @@
       "air unit",
       "AlexFPV",
       "analog",
-      "AOS",
-      "AOS T3",
       "Audio TBS",
       "AutoSelect",
       "aux",
       "Avatar",
       "AyyyKayyy",
-      "bando",
       "bardwell",
-      "basher",
       "basic",
       "betaflight",
       "blackbox",
@@ -283,7 +276,6 @@
       "default",
       "defaults",
       "diatone",
-      "Digipick",
       "digital",
       "disable",
       "displayport",
@@ -305,11 +297,7 @@
       "Foxeer",
       "fport",
       "fpv.wtf",
-      "FPVCycle",
-      "FPVCycle TP3",
-      "fpvian",
-      "freedom",
-      "freedom spec",
+      "Freedom",
       "FreedomSpec",
       "freestyle",
       "freesytle",
@@ -318,7 +306,6 @@
       "Garban",
       "ghost",
       "GHST",
-      "GoPro",
       "GPS",
       "GTB339",
       "gyroflow",
@@ -339,7 +326,6 @@
       "justice",
       "karate",
       "KarateBrot",
-      "kim",
       "launch",
       "launch_mode",
       "LeadFingers",
@@ -352,14 +338,12 @@
       "logging",
       "Long Range",
       "mamba",
-      "mck",
       "meteor",
       "MinChan",
       "MM",
       "mode",
       "modes",
       "Motor",
-      "mouse fpv",
       "msp",
       "MSP VTX",
       "msp-osd",
@@ -438,14 +422,12 @@
       "Street League",
       "StreetLeague",
       "suagrK",
-      "sub 250",
       "sugar k",
       "sugarK",
       "Supafly",
       "SupaflyFPV",
       "switch",
       "SWPR",
-      "T3",
       "tank solo",
       "tank ultimate",
       "TBS",
@@ -467,7 +449,6 @@
       "tx800",
       "ultra",
       "ultra 1000",
-      "ultralite",
       "unify",
       "unify pro",
       "utility",
@@ -475,8 +456,6 @@
       "very",
       "very clean",
       "very noisy",
-      "viper",
-      "viper lite",
       "vista",
       "Voltage",
       "vtx",
@@ -486,7 +465,6 @@
       "whoop",
       "whoop lite",
       "whooptopia",
-      "world champion",
       "wtfos",
       "youtube"
     ]
@@ -2495,248 +2473,6 @@
         "filters"
       ],
       "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "596fb4e7745a7719916c34759fa7a7e7af7982363d4c26c69f0dee309c509a1a",
-      "title": "Basher Freestyle 6S 5\" by FPVian",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "basher",
-        "freestyle",
-        "5 Inch",
-        "5 In",
-        "5\"",
-        "bando",
-        "fpvian"
-      ],
-      "author": "FPVian",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/freedom_spec_460g.txt",
-      "hash": "006ebaa17f472e3ade9e68c1332874c6ad39e41b75e28955747a5cf72ba5918c",
-      "title": "Freedom Spec 460 - 500g",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "freedom",
-        "freedom spec",
-        "headsup",
-        "five33",
-        "533",
-        "racing",
-        "race",
-        "5\""
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_freestyle_5_inch.txt",
-      "hash": "93602c5a24a653093e3ef37d10554d3138acb4da4de60ecabbe2ad0640f72831",
-      "title": "Freestyle 5\" Karate Style",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "karateBrot",
-        "freestyle"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race.txt",
-      "hash": "04687315755456c9b599692b0ddafe64eec8d93372dcf992141b4adf38658c9b",
-      "title": "Karate Race 6s 5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "karate",
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "KarateBrot"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/karate_race_lite.txt",
-      "hash": "78db2eac1355226f80e362adb0bdc677a13535edc56c337323e7ac6a1a9cf10e",
-      "title": "Karate 'Viper Lite' Race  5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "karate",
-        "race",
-        "5 inch",
-        "5\"",
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "KarateBrot",
-        "ultralite",
-        "viper",
-        "viper lite"
-      ],
-      "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/minchan_2022_race.txt",
-      "hash": "ea7339c67eadea06b19998caa5b0be098a42e72f90ba50b5018110774d61f8d8",
-      "title": "MinChan 2022 Race 6s 5\"",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "mck",
-        "minchan",
-        "kim",
-        "2022",
-        "multigp"
-      ],
-      "author": "MinChan Kim",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "6873908b46d271e204c9f78acf4892ef1ec78eb6d1c4637354cafbaa8579f73f",
-      "title": "AOS 3.5 V1 4s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "AOS",
-        "4s",
-        "freestyle",
-        "sub 250"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_Digipick_braced.txt",
-      "hash": "dc5f0a91884f4b4d70cc0b9696f921024f2d0b21241c68dd666a2b7469447c8a",
-      "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle TP3",
-        "Digipick",
-        "Toothpick",
-        "3s",
-        "3 Inch",
-        "4s",
-        "AOS T3",
-        "T3"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "2557231920b0c8ebd932477bb59f714beec9039d97cc50975c46dd61920b70ad",
-      "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle",
-        "5 inch",
-        "5in",
-        "6S",
-        "freestyle",
-        "GoPro",
-        "mouse fpv"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "46bfe57f0ce647c32042d9f7d15803324e8d7da3e1d30b1d655fd22623bb284c",
-      "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/mouseFPV_toothpick3_3s.txt",
-      "hash": "9a8f721f3e1334bdbba6133ee9da0c23bfa9cfd457e2e2bf49e4a52cbe4013fa",
-      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "FPVCycle TP3",
-        "Toothpick",
-        "3s",
-        "3 inch"
-      ],
-      "author": "mouseFPV",
-      "force_options_review": true,
       "priority": 1000000000000
     },
     {
