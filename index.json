@@ -851,11 +851,10 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/50hz_cinematic.txt",
-      "hash": "31a068b280ab0beddc038c499ad1c1701185dcacd12f4e24a6ca1c1a1b41b3ac",
+      "hash": "edb2486693c4d9e9647ac33d6d7f1370a7a46b29fa5bae28297e34cb896dcf10",
       "title": "Generic 50Hz Cinematic",
       "firmware_version": [
-        "4.3",
-        "4.4"
+        "4.3"
       ],
       "category": "RC_LINK",
       "status": "OFFICIAL",
