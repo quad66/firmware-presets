@@ -166,7 +166,6 @@
       "Ivan Efimov (Limon)",
       "Jakub Espandr (FlyCamCzech)",
       "jappyjan",
-      "Joshua Bardwell",
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
@@ -219,7 +218,6 @@
       "AutoSelect",
       "aux",
       "Avatar",
-      "bardwell",
       "basic",
       "betaflight",
       "blackbox",
@@ -1118,24 +1116,6 @@
       ],
       "author": "Daniel Appel / Tehllama",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/Bardwell.txt",
-      "hash": "7c4cadcce2243e35b482e4c8e8d34943384ba693b1323843b51484503550dfc3",
-      "title": "Joshua Bardwell rates",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "youtube",
-        "bardwell",
-        "freestyle"
-      ],
-      "author": "Joshua Bardwell",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/BMSThomas.txt",
