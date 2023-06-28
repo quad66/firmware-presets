@@ -367,8 +367,6 @@
       "unify",
       "unify pro",
       "utility",
-      "very",
-      "very clean",
       "vista",
       "Voltage",
       "vtx",
@@ -441,30 +439,6 @@
         "filtering",
         "normal",
         "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_very_clean.txt",
-      "hash": "4902ac1a62a55ffb114c4427ae1633da90a224447896b19c3991f3efcd21446c",
-      "title": "4.3 Filter settings for VERY CLEAN build WITHOUT RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "no rpm",
-        "filter",
-        "filters",
-        "filtering",
-        "very clean",
-        "very",
-        "clean",
         "basic",
         "betaflight"
       ],
