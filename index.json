@@ -369,7 +369,6 @@
       "utility",
       "very",
       "very clean",
-      "very noisy",
       "vista",
       "Voltage",
       "vtx",
@@ -466,29 +465,6 @@
         "very clean",
         "very",
         "clean",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_very_noisy.txt",
-      "hash": "cd2bc8cd4ce238df2ab009e95bf843d4879c8c78b71bbd9eef789d9f253530ce",
-      "title": "4.3 Filter settings for VERY NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "very noisy",
-        "very",
-        "noisy",
-        "no rpm",
         "basic",
         "betaflight"
       ],
