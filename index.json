@@ -201,8 +201,6 @@
       "clean",
       "clear",
       "Configure",
-      "Crossfire",
-      "CRSF",
       "default",
       "defaults",
       "diatone",
@@ -300,15 +298,13 @@
       "switch",
       "tank solo",
       "tank ultimate",
-      "TBS",
+      "tbs",
       "tbs sa",
-      "Team Black Sheep",
       "Texas",
       "Throttle cap",
       "tiny",
       "tiny tank",
       "tinytrainer",
-      "Tracer",
       "tramp",
       "tune",
       "tx5m.1",
@@ -937,78 +933,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/tbs/crossfire_150hz.txt",
-      "hash": "e456a2010e44fdb60451376a459161753abb53b4786e138528e0e31434aed27e",
-      "title": "TBS Crossfire 150Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "150Hz",
-        "TBS",
-        "Crossfire",
-        "Team Black Sheep",
-        "CRSF",
-        "rc",
-        "rx",
-        "link"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/tbs/crossfire_50hz.txt",
-      "hash": "50728820731cad1e79c60d95190d5071947dcc924a5b2c7bafcf79edaa232cd7",
-      "title": "TBS Crossfire 50Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "50Hz",
-        "TBS",
-        "Crossfire",
-        "Team Black Sheep",
-        "CRSF",
-        "rc",
-        "rx",
-        "link"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/tbs/tracer_250hz.txt",
-      "hash": "ec12554f667716724d84f93d03e65fec34925153a23c9d7ef74bba26e10fa19c",
-      "title": "TBS Tracer 250Hz",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "250Hz",
-        "TBS",
-        "Tracer",
-        "Team Black Sheep",
-        "CRSF",
-        "rc",
-        "rx",
-        "link"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/tune/defaults.txt",
