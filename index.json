@@ -150,7 +150,6 @@
       "VTX"
     ],
     "author": [
-      "benlumley",
       "Betaflight",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
@@ -163,7 +162,6 @@
       "sugarK"
     ],
     "keywords": [
-      "03",
       "1000Hz",
       "150Hz",
       "1ms",
@@ -176,10 +174,8 @@
       "50Hz",
       "actual",
       "adjustments",
-      "air unit",
       "Audio TBS",
       "aux",
-      "avatar",
       "basic",
       "betaflight",
       "clean",
@@ -188,9 +184,7 @@
       "default",
       "defaults",
       "digital",
-      "displayport",
       "divimath",
-      "dji",
       "eachine",
       "ELRS",
       "expert",
@@ -198,10 +192,7 @@
       "filter",
       "filtering",
       "filters",
-      "fpv.wtf",
       "freestyle",
-      "HD",
-      "HD video",
       "HDzero",
       "irc",
       "IRC Tramp",
@@ -212,11 +203,8 @@
       "modes",
       "MSP",
       "MSP VTX",
-      "msp-osd",
       "nano",
       "no rpm",
-      "O3",
-      "O3 air unit",
       "OpenVTx",
       "OSD",
       "partial",
@@ -239,7 +227,6 @@
       "smartaudio",
       "smoothing",
       "some",
-      "sugarK",
       "switch",
       "tbs",
       "tbs sa",
@@ -247,14 +234,11 @@
       "tune",
       "tx5m.1",
       "utility",
-      "vista",
       "vtx",
       "vtx table",
       "vtxtable",
-      "walksnail",
       "whoop",
-      "whoop lite",
-      "wtfos"
+      "whoop lite"
     ]
   },
   "presets": [
@@ -1204,37 +1188,6 @@
       ],
       "author": "Quad66",
       "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/vtx/DJI_FPV-WTF_MSP-OSD.txt",
-      "hash": "8b8d1da5c13f99ee0916e3242ca921f777dbcc82eda83228b3eba56baf7b4111",
-      "title": "OSD for Fpv.wtf, DJI O3, Avatar HD",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "VTX",
-      "status": "COMMUNITY",
-      "keywords": [
-        "vtx",
-        "dji",
-        "O3 air unit",
-        "O3",
-        "03",
-        "avatar",
-        "walksnail",
-        "HD",
-        "HD video",
-        "vista",
-        "air unit",
-        "fpv.wtf",
-        "wtfos",
-        "msp-osd",
-        "displayport",
-        "msp",
-        "sugarK"
-      ],
-      "author": "benlumley",
-      "priority": 1000000
     },
     {
       "fullPath": "presets/4.4/vtx/HDZero.txt",
