@@ -218,7 +218,6 @@
       "control",
       "Crossfire",
       "CRSF",
-      "ctzsnooze",
       "DDC",
       "default",
       "defaults",
@@ -306,7 +305,7 @@
       "quad66",
       "quaddiction",
       "R9",
-      "race",
+      "Race",
       "race v1",
       "race v2",
       "Race250",
@@ -610,26 +609,6 @@
         "hot",
         "basic",
         "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/ctzsnooze_race.txt",
-      "hash": "3cd6b38b21527d3acb44b6e73e0df0816f9bef36ad1c4a83644d51a903aa579b",
-      "title": "ctzsnooze's race filter settings",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race",
-        "filter",
-        "filters",
-        "ctzsnooze",
-        "RPM"
       ],
       "author": "Betaflight",
       "priority": 100
