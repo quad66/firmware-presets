@@ -1,0 +1,27 @@
+#$ TITLE: Quad66 F411 Setup Base
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: setup, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: This preset serves as a base for F411. It includes: cpu over-clock, turns off accelerometer, props out, raises pidsum limit, vbat sag compensation, and sets up rpm telemetry 
+#$ DESCRIPTION:
+
+set acc_hardware = NONE
+set mag_hardware = NONE
+set baro_hardware = NONE
+set cpu_overclock = 120MHZ
+set yaw_motors_reversed = ON
+set small_angle = 180
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+# -- Dshot RPM telemetry --
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
