@@ -157,7 +157,6 @@
       "BMSThomas",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
-      "Davide FPV (Davide Angeletti)",
       "Directory",
       "Evan Turner (Headsup)",
       "Feisar",
@@ -239,8 +238,6 @@
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
-      "davide",
-      "davide fpv",
       "DDC",
       "default",
       "defaults",
@@ -291,7 +288,6 @@
       "immersionRC",
       "IRC",
       "IRC Tramp",
-      "juicy",
       "karate",
       "KarateBrot",
       "launch",
@@ -368,14 +364,12 @@
       "sa2.0",
       "sa20",
       "Safe",
-      "sbang",
       "sbus",
       "SBUS fast",
       "Smart",
       "smart audio",
       "smartaudio",
       "smoothing",
-      "snappy",
       "Solid250",
       "some",
       "Spec",
@@ -3102,47 +3096,6 @@
       "author": "Daniel Appel / Tehllama",
       "force_options_review": true,
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/rates/DavideFPVFreeStyle.txt",
-      "hash": "49d062988bc8fb428ec542d3649eda1f08b309edf773536cef317c958d893185",
-      "title": "Davide FPV Rates for Freestyle with Cinematic Option",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "COMMUNITY",
-      "keywords": [
-        "davide fpv",
-        "davide",
-        "rates",
-        "freestyle",
-        "hd",
-        "cinematic"
-      ],
-      "author": "Davide FPV (Davide Angeletti)",
-      "priority": 10000
-    },
-    {
-      "fullPath": "presets/4.4/rates/QuadMcFly_Freestyle.txt",
-      "hash": "ba10d6dc3b62a3543b5b48029a2bbf8f8f4818cc6b2569d44511d2f570fd4851",
-      "title": "QuadMcFly Rates - Snappy Freestyle",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates",
-        "freestyle",
-        "snappy",
-        "juicy",
-        "sbang"
-      ],
-      "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.4/rc_link/FrSky R9 (6.67ms).txt",
