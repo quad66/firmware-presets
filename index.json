@@ -3925,25 +3925,6 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/quadmcfly/QuadMcFly_5_Inch_Freestyle.txt",
-      "hash": "f71d0cae4a6388e53a1711e4c4e355cee147851562d395cbeadfca5aeadafe99",
-      "title": "QuadMcFly - 5\" Freestyle with GoPro (Mid-Weight)",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "4S",
-        "6S",
-        "5in",
-        "5\"",
-        "freestyle"
-      ],
-      "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
       "hash": "ed3f1334a45e5946e5d3fc1e458d8acecef924f0c7a005a4fe75afaa603af6ee",
       "title": "SupaflyFPV Freestyle 3/4 Inch",
