@@ -175,7 +175,6 @@
       "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
-      "Quad66",
       "QuadMcFly (Ryan Harrell)",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
@@ -198,7 +197,6 @@
       "250Hz",
       "2ms",
       "2S",
-      "3 inch",
       "3S",
       "5\"",
       "500Hz",
@@ -336,7 +334,6 @@
       "pro32",
       "profile",
       "Pure Race",
-      "quad66",
       "quaddiction",
       "quick",
       "R9",
@@ -3224,42 +3221,6 @@
         "filters"
       ],
       "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/quad66_tune_3S_TC_1204_3020_2S.txt",
-      "hash": "4b8912c050ba6ab485e7f68f84b8db763a9aa985364a60ad997fe6a5a27fb1b8",
-      "title": "Quad66 tune \"3S\"/2S Touring 1204 8000kv GF 3020 48 khz 104gm AUW 12 pole motor",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "3S",
-        "3 inch",
-        "tune",
-        "quad66"
-      ],
-      "author": "Quad66",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/quad66_tune_tc_2S_13mm_3020.txt",
-      "hash": "e35101a6acb7b18348c3150f9c892736c41d4efb7ec9dcba8f3e8769319e1594",
-      "title": "Quad66 tune 2S Touring 13mm 6350kv GF 3020 48 khz 101gm AUW 12 pole motor",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "3S",
-        "3 inch",
-        "tune",
-        "quad66"
-      ],
-      "author": "Quad66",
       "priority": 1000000000000
     },
     {
