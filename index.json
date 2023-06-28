@@ -3852,29 +3852,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "72c69bfa50faf6e31ec5165a86b7219bfc71a574c9d15df2f43c7be143907629",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.4/tune/defaults.txt",
       "hash": "913b78f0010561a8e935f951493cb4bd7313493a36a48a7b9205a69e1350524f",
       "title": "Betaflight 4.4 TUNE defaults",
@@ -3912,53 +3889,6 @@
         "filters"
       ],
       "author": "Betaflight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/fpvian_basher_freestyle.txt",
-      "hash": "ff58ad9335b5439db1582888ae879c27310c4cdccf3c01ee53dfd1f1552d559d",
-      "title": "Basher Freestyle 6S 5\" by FPVian",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "COMMUNITY",
-      "keywords": [
-        "basher",
-        "freestyle",
-        "5 Inch",
-        "5 In",
-        "5\"",
-        "bando",
-        "fpvian"
-      ],
-      "author": "FPVian",
-      "force_options_review": true,
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/freedom_spec_460g.txt",
-      "hash": "365cf557bae6cd885aa975b6fe8dfc1b118db36b56264ccabf688d8243384de9",
-      "title": "Freedom Spec 460 - 500g",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "sugarK",
-        "limon",
-        "ctzsnooze",
-        "freedom",
-        "freedom spec",
-        "headsup",
-        "five33",
-        "533",
-        "racing",
-        "race",
-        "5\""
-      ],
-      "author": "Ivan Efimov (Limon)",
       "priority": 1000000000000
     },
     {
@@ -4080,30 +4010,6 @@
         "tinyTrainer"
       ],
       "author": "sugarK",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/minchan_2022_race.txt",
-      "hash": "de8aa3e2543980a85b356f689874ed8a990c8a807b530441e5dd935125453354",
-      "title": "MinChan 2022 Race 6s 5\"",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "world champion",
-        "5 inch",
-        "5\"",
-        "mck",
-        "minchan",
-        "kim",
-        "2022",
-        "multigp"
-      ],
-      "author": "MinChan Kim",
       "priority": 1000000000000
     },
     {
@@ -4278,27 +4184,6 @@
         "freestyle"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/Street_League_LeadFingers.txt",
-      "hash": "b890ead5c02a90680733bf896f43e2dfa2338cb36fa544b5010c272de8e8b785",
-      "title": "Street League LeadFingers PIDtoolbox tune",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Street League",
-        "StreetLeague",
-        "Street",
-        "League",
-        "LeadFingers",
-        "PIDtoolbox",
-        "7\""
-      ],
-      "author": "LeadFingers",
       "priority": 1000000000000
     },
     {
@@ -4592,53 +4477,6 @@
         "whoop"
       ],
       "author": "UAV Tech (Mark Spatz)",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/whoop_ayyykayyy.txt",
-      "hash": "be54eb2b4c9d09927a10644b35bb7295f3952f191bf4e2fdfe1a2586738fa4ed",
-      "title": "Whoop race tune by AyyyKayyy",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "AyyyKayyy",
-        "meteor",
-        "whooptopia",
-        "brushless"
-      ],
-      "author": "AyyyKayyy - Anthony Knight",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.4/tune/whoop_justice.txt",
-      "hash": "d224d0443f0c0f14e08ab45ff9603fcc501eb60825e74e9752bd25d1729ab8d7",
-      "title": "Whoop race tune by Justice",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "whoop",
-        "65mm",
-        "1S",
-        "race",
-        "acro",
-        "tune",
-        "justice",
-        "meteor"
-      ],
-      "author": "Justice - Gary Kent",
-      "force_options_review": true,
       "priority": 1000000000000
     },
     {
