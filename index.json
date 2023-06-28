@@ -201,7 +201,6 @@
       "actual",
       "adjustments",
       "air unit",
-      "analog",
       "Audio TBS",
       "AutoSelect",
       "aux",
@@ -472,52 +471,6 @@
         "OSD"
       ],
       "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/UAV_tech_Analog.txt",
-      "hash": "b304bd4f3d0e6ab42840badced7e07847ca654c5fd048dba8c53b96128788763",
-      "title": "UAV Tech - Analog",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "analog"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/UAV_tech_DJI.txt",
-      "hash": "bc8e6e7c6811e7dc0c3dce503795e6ac263471b78de444c56c9bdb6dfc1c1821",
-      "title": "UAV Tech - DJI",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "DJI"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/UAV_tech_DJI_GPS.txt",
-      "hash": "71aa3f012c239248629894e48e5ce5d7e83fc4c4b3e6e166d835a73b8e8588e7",
-      "title": "UAV Tech - DJI with GPS",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "DJI",
-        "GPS"
-      ],
-      "author": "UAV Tech (Mark Spatz)",
       "priority": 0
     },
     {
