@@ -165,9 +165,13 @@
       "1000Hz",
       "150Hz",
       "1ms",
+      "1S",
+      "2 inch",
+      "2.5 inch",
       "20ms",
       "250Hz",
       "2ms",
+      "2S",
       "3 inch",
       "3S",
       "500Hz",
@@ -203,14 +207,17 @@
       "modes",
       "MSP",
       "MSP VTX",
+      "namelessrc",
       "nano",
       "no rpm",
       "OpenVTx",
       "OSD",
+      "OSD quad66",
       "partial",
       "Passthrough",
       "pid",
       "quad66",
+      "quad66 rates",
       "race v1",
       "race v2",
       "rates",
@@ -222,6 +229,7 @@
       "Rx",
       "sa",
       "SA 2.1",
+      "setup",
       "Smart",
       "smart audio",
       "smartaudio",
@@ -387,6 +395,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/quad66_osd.txt",
+      "hash": "09b4ff95318516de1d17ae1945262757d009d09f7c454bd74e8a80dff2728300",
+      "title": "Quad66 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD quad66"
+      ],
+      "author": "quad66",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
       "hash": "1314352dd602fa60a9d8737439b20b91ffdd2ab0a92a378e66a7367f15f7f758",
       "title": "ExpressLRS Passthrough Betaflight Settings",
@@ -408,6 +431,54 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/quad66_f411_performance .txt",
+      "hash": "11ee41eb6ddf46fecbf0359e5608b56a326a86f99e9e77c670dbdeb0ed32251d",
+      "title": "Quad66 F411 Setup Base",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/quad66_f411_performance _whoop.txt",
+      "hash": "d27002025236237dabe415398b0f37529b4b4e34bf90686e07615f5402bba872",
+      "title": "Quad66 F411 Setup Base Whoop",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/quad66_rx_switches.txt",
+      "hash": "143121ff43b442bc31e3c7fb81807f8ae31793d4244da67b96b4efbc2b652b16",
+      "title": "Quad66 RX map and Switches Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rates/defaults.txt",
       "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
       "title": "Default rates",
@@ -424,6 +495,21 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/quad66_rates.txt",
+      "hash": "c410e67aa882cc322d85d90fa1349238ba0e1a8d868637ed6f1e44f22e1380fe",
+      "title": "Quadd66 rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66 rates"
+      ],
+      "author": "Quad66",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
@@ -882,6 +968,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rc_link/quad66_elrs_500hz.txt",
+      "hash": "38132a476cde855626f8bf81bdf90646d1916a940890578aaadf3ee64d97840b",
+      "title": "Quad66 ELRS 500hz",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "COMMUNITY",
+      "keywords": [
+        "ELRS",
+        "rc",
+        "link",
+        "500hz",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.3/rc_link/reset_to_defaults.txt",
       "hash": "8b88664102911f576820ad482c5680a61e1c3c0065df7be544d84ebeefe31362",
       "title": "Reset ALL RC link related settings",
@@ -937,6 +1042,132 @@
         "filters"
       ],
       "author": "Betaflight",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_1S_2015_1002_22000kv_8_21_2022.txt",
+      "hash": "c39f1c9bd64c8308b6056dc4d3149716b3e59fe18966cf7937b3f2c1ba230a6b",
+      "title": "Quad66 Preliminiary tune 1S GF2015 1002 22,000kv 48 khz",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "2 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_1S_3inch_1203_1_13_2022.txt",
+      "hash": "0f4badb8e798586b59467fd53c4a46b935acca6f1f3e1f34ff0b2781d8cfa6c3",
+      "title": "Quad66 tune 1S 3 inch 1203 or (13mm) motors 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "3 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_2S_2512_1202_5_11500kv_8_21_2022.txt",
+      "hash": "fcb0e800ca2c0bd4acac296e8c2d26dc88c142afc63943799e23a6281917f772",
+      "title": "Quad66 tune 2S GF2512 1202.5 11500kv 48 khz 73 gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "2.5 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_2S_25inch_1103_1_13_2022.txt",
+      "hash": "b0b7fb26ff4e9bf6037cfe940d8d2643294085e8c3708f8c475d0f63dc6d0934",
+      "title": "Quad66 tune 2S 2.5 inch 1103 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "2.5 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_2S_25inch_1104_11_27_2022.txt",
+      "hash": "f981ce4cee88a170873f60d903e8954dc926fe056693c88ec39b493bb0b1f60d",
+      "title": "Quad66 tune 2S 2.5 inch 1104 48 khz 82gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "2S",
+        "2.5 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_65mm_0702_whoop_1_28_2023.txt",
+      "hash": "6de4050b50d779d31babb281f35c455045caffd9063b27fe6ef89c2e1bf821f1",
+      "title": "Quad66 tune 65mm acro race whoop 0702 motors Gemfan 1210 prop 48 khz tuned at 25.5gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "whoop",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/quad66_tune_65mm_whoop_1_28_2022.txt",
+      "hash": "e038f0ecea97263e72f228395362468e2b3eb6ba9e75e2b576cc67df903cdf1c",
+      "title": "Quad66 tune 65mm acro race whoop 0802 motors Azi quad blade 48 khz tuned at 31.4gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "whoop",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 1000000000000
     },
     {
@@ -1101,6 +1332,25 @@
         "karatebrot"
       ],
       "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/namelessrc_nano.txt",
+      "hash": "87834b9fe73f62e06b7ce028e844727df7db0060b280b5b483a481ac4324288e",
+      "title": "NamelessRC Nano",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "namelessrc",
+        "quad66"
+      ],
+      "author": "Quad66",
       "priority": 1000000
     },
     {
