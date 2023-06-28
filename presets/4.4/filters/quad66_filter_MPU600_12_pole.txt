@@ -1,0 +1,50 @@
+#$ TITLE: Quad66 4.4 Filter settings for MPU6000 12 pole motor.
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: FILTERS
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: quad66, filter
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: WARNING: This filtering is fairly minimal to decrease latency, check motor temps!
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: Ensure that DShot Telemetry is working properly!
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: Likely to cause motor overheating on many builds!
+#$ DESCRIPTION:
+#$ DESCRIPTION: Intended only for rock hard frames, motors with good bearings and true shafts, and perfectly balanced props.
+#$ DESCRIPTION:
+#$ DESCRIPTION: If motors get hot, try a filter set for clean or normal motors or lower D..
+
+# -- Gyro filters --
+# None
+set gyro_lpf1_static_hz = 0
+set gyro_lpf2_static_hz = 1000
+
+set gyro_lpf1_dyn_min_hz = 0
+set gyro_lpf1_dyn_max_hz = 0
+
+# -- Gyro Sliders (on by default) --
+set simplified_gyro_filter_multiplier = 200
+
+# -- Gyro Static Notches (default)--
+
+# -- Gyro Dynamic Notches --
+set dyn_notch_count = 1
+set dyn_notch_max_hz = 800
+
+# -- RPM filtering --
+set dshot_bidir = ON
+#set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+set rpm_filter_q = 750
+
+# -- Dterm filtering --
+set dterm_lpf1_dyn_min_hz = 150
+set dterm_lpf1_dyn_max_hz = 300
+set dterm_lpf1_static_hz = 150
+set dterm_lpf2_static_hz = 300
+
+# -- Dterm sliders --
+set simplified_dterm_filter_multiplier = 200
+
+
+#
