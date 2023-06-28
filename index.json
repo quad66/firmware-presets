@@ -1426,22 +1426,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/other/quad66_f411_performance_44.txt",
-      "hash": "c151066952491fda0ec11e72346051f1a736c2a53ff26e2c2ceb829778b381ec",
-      "title": "Quad66 F411 Setup Base",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "setup",
-        "quad66"
-      ],
-      "author": "Quad66",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/other/quad66_rx_switches_44.txt",
       "hash": "6ea1d50a11fd45b0c4ad61e883b85abe9b971f3f334630d74568702342de6084",
       "title": "Quad66 RX map and Switches Setup",
