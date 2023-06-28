@@ -1426,6 +1426,72 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/quad66_f411_performance_44.txt",
+      "hash": "c151066952491fda0ec11e72346051f1a736c2a53ff26e2c2ceb829778b381ec",
+      "title": "Quad66 F411 Setup Base",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/quad66_rx_switches_44.txt",
+      "hash": "6ea1d50a11fd45b0c4ad61e883b85abe9b971f3f334630d74568702342de6084",
+      "title": "Quad66 RX map and Switches Setup",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "setup",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rates/quad66_rates.txt",
+      "hash": "b7322eb510d22aacf7851d4a61cbc2247cf87f036bb9a994e01cd6f289c25ef8",
+      "title": "Quadd66 rates",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66 rates"
+      ],
+      "author": "Quad66",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rc_link/quad66_elrs_500hz_44.txt",
+      "hash": "a6234b30a3f82a6ccc841aaee6d801483cfe65bf3d4510a52a35d6922ad6a447",
+      "title": "Quad66 ELRS 500hz",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "RC_LINK",
+      "status": "COMMUNITY",
+      "keywords": [
+        "ELRS",
+        "rc",
+        "link",
+        "500hz",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
       "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
       "title": "Reset ALL RC link related settings",
