@@ -286,7 +286,6 @@
       "nano",
       "nanohawk",
       "no rpm",
-      "noisy",
       "Normal",
       "O3",
       "O3 air unit",
@@ -394,28 +393,6 @@
         "filters",
         "filtering",
         "clean",
-        "no rpm",
-        "basic",
-        "betaflight"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/basic_no_rpm_noisy.txt",
-      "hash": "f87df2629d53e73d16dfa7faf4f9f31477e10eceecaca5a9a5e3f39daa5ad024",
-      "title": "4.3 Filter settings for NOISY build WITH NO RPM FILTERING.",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "filtering",
-        "noisy",
         "no rpm",
         "basic",
         "betaflight"
