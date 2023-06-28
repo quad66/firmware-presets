@@ -311,7 +311,6 @@
       "quaddiction",
       "R9",
       "race",
-      "race rates ctzsnooze actual",
       "race v1",
       "race v2",
       "Race250",
@@ -1086,22 +1085,6 @@
       ],
       "author": "Daniel Appel / Tehllama",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
-      "hash": "741e70595d59bc32ecbe993108281d8ba797e5d5b6298901b9edd42af09da6a3",
-      "title": "race rates by ctzsnooze",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "OFFICIAL",
-      "keywords": [
-        "race rates ctzsnooze actual"
-      ],
-      "author": "ctzsnooze",
-      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rates/defaults.txt",
