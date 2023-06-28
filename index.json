@@ -213,7 +213,7 @@
       "4 inch",
       "4\"",
       "4in",
-      "4S",
+      "4s",
       "5 In",
       "5 Inch",
       "5\"",
@@ -463,7 +463,6 @@
       "tramp",
       "transmitter",
       "Tune",
-      "twig",
       "tx5m.1",
       "tx800",
       "ultra",
@@ -2457,29 +2456,6 @@
       "author": "Ivan Efimov (Limon)",
       "force_options_review": true,
       "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
-      "hash": "1eb0a26bd159bad0bb3d89a474291f56edd69cbbdd1453fa990a1637b21e3c4f",
-      "title": "4S, 3\" to 5\" race tune by ctzsznooze",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "3in",
-        "4in",
-        "5in",
-        "twig",
-        "4S",
-        "race",
-        "tune",
-        "ctzsnooze"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/tune/defaults.txt",
