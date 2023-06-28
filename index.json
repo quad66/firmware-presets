@@ -368,7 +368,7 @@
       "Tracer",
       "tramp",
       "transmitter",
-      "tune",
+      "Tune",
       "tx5m.1",
       "tx800",
       "ultra",
@@ -681,26 +681,6 @@
       ],
       "author": "sugarK",
       "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/test.txt",
-      "hash": "f48a78a42d3c677096b7133a01746d5c4ee07ac120a9d7add43acfea0cff234b",
-      "title": "Betaflight 4.4 TUNE defaults",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Betaflight",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/leds/defaults.txt",
