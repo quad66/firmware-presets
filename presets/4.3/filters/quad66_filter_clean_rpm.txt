@@ -1,0 +1,54 @@
+#$ TITLE: Quad66 4.3 Filter settings for VERY CLEAN build with RPM FILTERING.
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: FILTERS
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: quad66, filter
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: WARNING: This filtering is for 1-2S builds where filter latency often causes more problems than noise and motor heat. Essentially we are favoring performance over efficiency and relying on the motors to finish the filtering ;)!
+#$ DESCRIPTION:
+#$ DESCRIPTION: I personally use this filtering on my 3S 3 inch as well, but check motor temps!
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: Ensure that DShot Telemetry is working properly!
+#$ DESCRIPTION:
+#$ DESCRIPTION: WARNING: Likely to cause motor overheating on many builds!
+#$ DESCRIPTION:
+#$ DESCRIPTION: Intended only for rock hard frames, motors with good bearings and true shafts, and perfectly balanced props.
+#$ DESCRIPTION:
+#$ DESCRIPTION: If motors get hot, try a filter set for clean or normal motors or lower D..
+
+# -- Gyro filters --
+# None
+set gyro_lpf1_dyn_min_hz = 0
+set gyro_lpf1_dyn_max_hz = 0
+set gyro_lpf1_static_hz = 0
+set gyro_lpf2_static_hz = 1000
+
+# -- Gyro Sliders (on by default) --
+# only lpf2 is active
+set simplified_gyro_filter_multiplier = 200
+
+# -- Gyro Static Notches (default)--
+
+# -- Gyro Dynamic Notches --
+set dyn_notch_count = 1
+set dyn_notch_q = 300
+set dyn_notch_min_hz = 150
+set dyn_notch_max_hz = 600
+
+# -- RPM filtering --
+set dshot_bidir = ON
+#set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+set rpm_filter_q = 750
+
+# -- Dterm filtering --
+set dterm_lpf1_dyn_min_hz = 150
+set dterm_lpf1_dyn_max_hz = 300
+set dterm_lpf1_static_hz = 150
+set dterm_lpf2_static_hz = 300
+
+# -- Dterm sliders --
+set simplified_dterm_filter_multiplier = 200
+
+
+#
