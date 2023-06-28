@@ -284,6 +284,54 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.3/filters/quad66_filter_clean_rpm.txt",
+      "hash": "2c008b592b53bdd5c7332e16d1724da5ab46d87734713949b01748b986c4a679",
+      "title": "Quad66 4.3 Filter settings for VERY CLEAN build with RPM FILTERING.",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
+      "priority": 100
+    },
+    {
+      "fullPath": "presets/4.3/filters/quad66_filter_dirty_whoop_rpm.txt",
+      "hash": "bf7d0d4cabe66bcdefe5030611e8f1b3f2eccd04075f493e431088271a53783b",
+      "title": "Quad66 4.3 Filter settings for NOT SO CLEAN WHOOPS with RPM FILTERING.",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
+      "priority": 100
+    },
+    {
+      "fullPath": "presets/4.3/filters/quad66_filter_whoop.txt",
+      "hash": "a8ca798a9886115bd39830799b419fbad47e0f6d67c4eb70f4d27b99c38dc54f",
+      "title": "Quad66 4.3 Filter settings for clean build WITHOUT RPM FILTERING.",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "quad66",
+        "filter"
+      ],
+      "author": "Quad66",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/leds/defaults.txt",
       "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
       "title": "Default 4.3 LED settings",
