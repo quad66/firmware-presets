@@ -1,4 +1,4 @@
-#$ TITLE: Quad66 tune "3S"/2S Touring 1204 8000kv GF 3020 48 khz 104gm AUW 12 pole motor
+#$ TITLE: Quad66 tune "3S"/2S Touring 1204 8000kv GF 3020 48 khz 103gm AUW 12 pole motor
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
