@@ -1654,10 +1654,10 @@
     },
     {
       "fullPath": "presets/4.4/tune/quad66_tune_whoop_0702_4_4.txt",
-      "hash": "9bb9c3f86a5a480cbefbd634ffee3abddf0119c16d85fd84f5496b4d22f74f3f",
+      "hash": "7b751c7dd3e312a9bfb6563f75dfaec43947fdb65f2bf8af5af948c10f2cf1cd",
       "title": "Quad66 tune 65mm acro race whoop 0702 motors Gemfan 1210 prop 48 khz tuned at 25.5gm AUW",
       "firmware_version": [
-        "4.3"
+        "4.4"
       ],
       "category": "TUNE",
       "status": "COMMUNITY",
