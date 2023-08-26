@@ -1581,6 +1581,24 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.4/tune/quad66_tune_1S_3in_4_4.txt",
+      "hash": "5e6b4e52267de01a9f3089e9505362c87c33cf42ef3e7211f3d3ee0150a25e47",
+      "title": "Quad66 tune 1S 3 inch 1203 or (13mm) motors 48 khz 60gm AUW",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "3 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.4/tune/quad66_tune_3S_TC_1204_3020_2S.txt",
       "hash": "6d15deca9e38ad8e930a247edafb672edd1a1354a0d2f7b597f2fd9a34f7e9a4",
       "title": "Quad66 tune \"3S\"/2S Touring 1204 8000kv GF 3020 48 khz 103gm AUW 12 pole motor",
