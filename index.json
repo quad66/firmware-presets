@@ -1581,6 +1581,24 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.4/tune/quad66_tune_1S_2in_4_4.txt",
+      "hash": "b56bffd607bc8e52d7b7828cdbd751c3f84574d6afd4b29e8328668dd42a1aac",
+      "title": "Quad66 Preliminiary tune 1S GF2015 1002 22,000kv 48 khz",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "2 inch",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.4/tune/quad66_tune_1S_3in_4_4.txt",
       "hash": "5e6b4e52267de01a9f3089e9505362c87c33cf42ef3e7211f3d3ee0150a25e47",
       "title": "Quad66 tune 1S 3 inch 1203 or (13mm) motors 48 khz 60gm AUW",
