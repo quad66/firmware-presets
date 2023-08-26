@@ -1,0 +1,77 @@
+#$ TITLE: Quad66 tune 65mm acro race whoop 0702 motors Gemfan 1210 prop 48 khz tuned at 25.5gm AUW
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 1S, whoop, tune, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: High performance tune by Quad66.
+#$ DESCRIPTION:
+#$ DESCRIPTION: 48 khz ESC frequency highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Feed Forward smoothing, jitter reduction, and averaging must be apropriate for you Rx link. By convention set by CTsnooze, I have these settings in the Quadd66 ELRS link preset. If you are on other Rx Links, please use one of the presets by CTsnooze.  
+#$ DESCRIPTION:
+#$ DESCRIPTION: ESC RPM Telemetry required
+#$ DESCRIPTION:
+#$ DESCRIPTION: For F411 boards the Quad66 Setup Base Whoop is recommended.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tune developed on BetaFPV 1S board with BMI270 gyro UART ELRS, BFPV frame, Quad66 canopy, HM 0702, GF biblade props, LDARC 199C cam 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tuned at 25.5 gm AUW. To get to this weight I am using a very light build and the slightly smaller NBD 270 mah folded cell. 
+#$ DESCRIPTION:
+
+
+# -- PID values --
+set p_pitch = 107
+set i_pitch = 191
+set d_pitch = 77
+set f_pitch = 284
+
+set p_roll = 89
+set i_roll = 158
+set d_roll = 59
+set f_roll = 237
+
+set p_yaw = 89
+set i_yaw = 158
+set f_yaw = 237
+set d_min_roll = 59
+set d_min_pitch = 77
+
+
+# -- Sliders --
+set simplified_master_multiplier = 120
+set simplified_d_gain = 165
+set simplified_pi_gain = 165
+set simplified_feedforward_gain = 165
+set simplified_pitch_d_gain = 115
+set simplified_pitch_pi_gain = 115
+
+
+# -- Dmax --
+set d_max_gain = 0
+set d_max_advance = 0
+
+
+# -- Thrust Linearization --
+set thrust_linear = 30
+
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+
+# -- Dshot RPM telemetry --
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+
+
+# -- Dynamic idle ON at 10000 rpm --
+set dyn_idle_min_rpm = 100
+
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
+set vbat_min_cell_voltage = 320
+set vbat_warning_cell_voltage = 330
