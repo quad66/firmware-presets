@@ -1,5 +1,5 @@
 #$ TITLE: Quad66 tune 65mm acro race whoop 0702 motors Gemfan 1210 prop 48 khz tuned at 25.5gm AUW
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: 1S, whoop, tune, quad66
