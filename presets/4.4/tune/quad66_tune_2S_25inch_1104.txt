@@ -1,0 +1,76 @@
+#$ TITLE: Quad66 tune 2S 2.5 inch 1104 48 khz 82gm AUW 
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: TUNE
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: 2S, 2.5 inch, tune, quad66
+#$ AUTHOR: Quad66
+#$ DESCRIPTION: High performance tune by Quad66.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Quad66 filter preset highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Dynamic idle (biderection Dshot required)
+#$ DESCRIPTION:
+#$ DESCRIPTION: 48 khz ESC frequency highly recommended 
+#$ DESCRIPTION:
+#$ DESCRIPTION: Feed Forward smoothing, jitter reduction, and averaging must be apropriate for you Rx link. By convention set by CTsnooze, I have these settings in the Quadd66 ELRS link preset. If you are on other Rx Links, please use one of the presets by CTsnooze.  
+#$ DESCRIPTION:
+#$ DESCRIPTION: For F411 boards the Quad66 Setup Base is recommended.
+#$ DESCRIPTION:
+#$ DESCRIPTION: Tune developed on WP 115 V4 frame, LDARC 1104 motors, Avan Rush props, FLywoo F411, HM EP2 RX, namelessRC nano VTX, Nano lite cam, WarPig TPU canopy, GNB 550mah 2S HV red label 
+#$ DESCRIPTION:
+#$ DESCRIPTION: 60 gm AUW.
+
+# -- PID values --
+
+set p_pitch = 65
+set i_pitch = 117
+set d_pitch = 51
+set f_pitch = 216
+
+set p_roll = 66
+set i_roll = 117
+set d_roll = 50
+set f_roll = 218
+
+set p_yaw = 66
+set i_yaw = 117
+set f_yaw = 218
+
+set d_min_roll = 50
+set d_min_pitch = 51
+
+# -- Dmax --
+set d_max_gain = 0
+set d_max_advance = 0
+
+# -- Sliders --
+set simplified_master_multiplier = 140
+set simplified_d_gain = 120
+set simplified_pi_gain = 105
+set simplified_dmax_gain = 0
+set simplified_feedforward_gain = 130
+set simplified_pitch_d_gain = 90
+set simplified_pitch_pi_gain = 95
+
+
+# -- Thrust Linearization --
+set thrust_linear = 20
+
+
+# -- PIDsum limits --
+set pidsum_limit = 1000
+
+# -- Dshot RPM telemetry --
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT300
+set motor_poles = 12
+
+# -- Dynamic idle ON at 3500 rpm --
+set dyn_idle_min_rpm = 35
+
+
+# -- VBat sag compensation --
+set vbat_sag_compensation = 100
+set vbat_max_cell_voltage = 440
+
+
