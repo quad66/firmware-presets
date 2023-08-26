@@ -1653,6 +1653,24 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.4/tune/quad66_tune_whoop_0702_4_4.txt",
+      "hash": "9bb9c3f86a5a480cbefbd634ffee3abddf0119c16d85fd84f5496b4d22f74f3f",
+      "title": "Quad66 tune 65mm acro race whoop 0702 motors Gemfan 1210 prop 48 khz tuned at 25.5gm AUW",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "1S",
+        "whoop",
+        "tune",
+        "quad66"
+      ],
+      "author": "Quad66",
+      "priority": 1000000000000
+    },
+    {
       "fullPath": "presets/4.4/vtx/HDZero.txt",
       "hash": "0638bc4866b880ccc2d98b1be2836899633d1e0dc1e0bd98ded7e5d9ff6b58c4",
       "title": "HDZero VTXs",
